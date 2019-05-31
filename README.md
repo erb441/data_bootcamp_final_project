@@ -16,4 +16,4 @@ Project Description
 
 In this project, I investigated the relationship between GDP and Female Labor Force Participation Rate Growth. I investigated the world figures as well as the highest and lowest performing countries in terms of FLFPR growth and created graphs that proved an association existed. While outliers like China existed where GDP increased and FLFPR decreased, the overwhelming majority of countries enjoyed a positive association between the two factors. 
 
-https://github.com/erb441/data_bootcamp_final_project/edit/master/README.md
+https://github.com/erb441/data_bootcamp_final_project
